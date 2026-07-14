@@ -12,10 +12,13 @@
 [![Privacy](https://img.shields.io/badge/Privacy-100%25_Local-brightgreen)](https://picxcraft.great-site.net/)
 [![No Signup](https://img.shields.io/badge/No_Signup-Required-orange)](https://picxcraft.great-site.net/)
 [![Open Source](https://img.shields.io/badge/Type-Open_Source-informational)](https://github.com/Professional-X/PicxCraft)
+[![Contains Ads](https://img.shields.io/badge/Android_App-Contains_Ads-yellow)](https://github.com/Professional-X/PicxCraft/releases/latest)
 
 **Compress, resize, crop, convert, filter, and edit images directly in your browser. Your files never leave your device.**
 
-[🌐 Try PicxCraft Now](https://picxcraft.great-site.net/) &nbsp;|&nbsp; [📱 Download Android App](https://picxcraft.great-site.net/)
+> ⚠️ **Note:** The Android app contains ads to support free development. The [website version](https://picxcraft.great-site.net/) is ad-free.
+
+[🌐 Try PicxCraft Now](https://picxcraft.great-site.net/) &nbsp;|&nbsp; [📱 Download Android APK](https://github.com/Professional-X/PicxCraft/releases/latest)
 
 </div>
 
@@ -191,10 +194,25 @@ Just open an issue with the tool name and what it should do. Popular requests ge
 
 ---
 
+## 📱 Android App
+
+PicxCraft is also available as an **Android app** (APK) that wraps the website into a full-screen native experience with its own icon and splash screen.
+
+> **Note:** The Android app contains ads to support free development. All 114+ image tools work the same way — your images are still processed 100% locally in your browser and never uploaded.
+
+**[Download Latest APK from GitHub Releases](https://github.com/Professional-X/PicxCraft/releases/latest)**
+
+### Install
+1. Download `PicxCraft-1.0.0-1.apk` from the releases page
+2. Enable "Install from unknown sources" in Android settings
+3. Install and open the app
+
+---
+
 ## 🌐 Links
 
-- **Website**: [picxcraft.great-site.net](https://picxcraft.great-site.net/)
-- **Android App**: Download from the website
+- **Website (Ad-Free)**: [picxcraft.great-site.net](https://picxcraft.great-site.net/)
+- **Android App (Contains Ads)**: [GitHub Releases](https://github.com/Professional-X/PicxCraft/releases/latest)
 - **Report Issues**: [GitHub Issues](https://github.com/Professional-X/PicxCraft/issues)
 
 ---
