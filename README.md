@@ -1,4 +1,4 @@
-<img src="screenshots/screenshot-1.png" alt="PicxCraft Android - Open Source Image Editor" width="800">
+<img src="screenshots/screenshot-1.jpg" alt="PicxCraft Android - Open Source Image Editor" width="800">
 
 <div align="center">
 
@@ -16,8 +16,6 @@
 **PicxCraft Android** is a free, open-source image editor for Android with **114+ image tools**. Compress images, resize for social media, convert formats, remove backgrounds, extract text with OCR, add watermarks, generate QR codes, and much more — all on your device!
 
 [📥 Download APK](https://github.com/Professional-X/PicxCraft-Image-Tools/releases/latest) &nbsp;|&nbsp; [🌐 Try Web Version](https://picxcraft.great-site.net/) &nbsp;|&nbsp; [⭐ Star on GitHub](https://github.com/Professional-X/PicxCraft-Image-Tools)
-
-![Preview GIF](screenshots/preview.gif)
 
 </div>
 
@@ -73,9 +71,13 @@
 
 ## 📱 App Screenshots
 
-<img src="screenshots/screenshot-1.png" alt="PicxCraft Home" width="300"> <img src="screenshots/screenshot-2.png" alt="Compression Tool" width="300">
+<img src="screenshots/screenshot-1.jpg" alt="PicxCraft Home" width="300"> <img src="screenshots/screenshot-2.jpg" alt="Compression Tool" width="300">
 
-<img src="screenshots/screenshot-3.png" alt="Resize Tools" width="300"> <img src="screenshots/screenshot-4.png" alt="Crop & Edit" width="300">
+<img src="screenshots/screenshot-3.jpg" alt="Resize Tools" width="300"> <img src="screenshots/screenshot-4.jpg" alt="Crop & Edit" width="300">
+
+<img src="screenshots/screenshot-5.jpg" alt="Edit Tools" width="300"> <img src="screenshots/screenshot-6.jpg" alt="Format Converter" width="300">
+
+<img src="screenshots/screenshot-7.jpg" alt="More Tools" width="300">
 
 ---
 
