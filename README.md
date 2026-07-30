@@ -1,5 +1,3 @@
-<img src="screenshots/screenshot-1.jpg" alt="PicxCraft Android - Open Source Image Editor" width="800">
-
 <div align="center">
 
 # PicxCraft Android - Open Source Image Editor & 114+ Image Tools
