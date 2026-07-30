@@ -223,9 +223,54 @@ PicxCraft is also available as an **Android app** (APK) that wraps the website i
 - **WebAssembly (WASM)** — High-performance image operations
 - **Vanilla JavaScript** — Zero dependencies, fast loading
 - **Responsive Design** — Works on all screen sizes
+- **Android WebView** — Native Android wrapper
+
+---
+
+## 📱 Android App Development
+
+The Android app is available in the [`android-app/`](android-app/) directory. You can build it locally:
+
+### Prerequisites
+- Java Development Kit (JDK) 17+
+- Android SDK (API level 34)
+- Gradle 8.4+
+
+### Build Instructions
+```bash
+cd android-app
+./gradlew assembleDebug
+```
+
+The APK will be generated at: `app/build/outputs/apk/debug/app-debug.apk`
+
+### Android App Features
+- Full WebView implementation with JavaScript enabled
+- File picker for camera and gallery
+- Download manager integration
+- Geolocation support
+- Cookie and local storage persistence
+- Hardware back button navigation
+- Responsive layout for all screen sizes
+
+---
+
+## 🔗 Additional Resources
+
+- [Android App Source Code](android-app/) — Native Android implementation
+- [GitHub Actions](.github/workflows/android-build.yml) — CI/CD for APK builds
+- [Releases](https://github.com/Professional-X/PicxCraft/releases) — Pre-built APK downloads
 
 ---
 
 ## License
 
 This project is open source. See [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Professional-X/PicxCraft/releases/latest">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
